@@ -33,6 +33,14 @@ export class GfLogoCarouselComponent {
       url: 'https://dev.to'
     },
     {
+      className: 'logo-euroalternative',
+      isMask: true,
+      name: 'EuroAlternative',
+      title:
+        'EuroAlternative - European alternatives to popular digital products',
+      url: 'https://euroalternative.eu/ghostfolio'
+    },
+    {
       className: 'logo-hacker-news',
       isMask: true,
       name: 'Hacker News',
