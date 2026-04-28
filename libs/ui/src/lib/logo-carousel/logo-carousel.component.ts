@@ -37,7 +37,7 @@ export class GfLogoCarouselComponent {
       isMask: true,
       name: 'EuroAlternative',
       title:
-        'EuroAlternative - European alternatives to popular digital products',
+        'EuroAlternative - Discover European Alternatives to Big Tech Companies',
       url: 'https://euroalternative.eu/ghostfolio'
     },
     {
